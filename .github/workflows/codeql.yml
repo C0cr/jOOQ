@@ -95,4 +95,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: jooq-code-database
-        path: /home/runner/work/_temp/codeql_databases/
+        path: /Users/runner/work/_temp/codeql_databases/
